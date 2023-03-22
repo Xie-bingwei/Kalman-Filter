@@ -16,4 +16,4 @@ Just a way of thinking
 
 2.测量更新: X(k|k) = X(k|k-1)+K(k)*(Z(k)-H(k)*X(k|k-1))
 
-3.更新后验协方差: P(k|k) =£¨I-K(k)*H(k)£©*P(k|k-1)
+3.更新后验协方差: P(k|k) = (I-K(k)*H(k))*P(k|k-1)
