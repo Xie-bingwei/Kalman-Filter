@@ -23,5 +23,3 @@
 
 
 在陀螺仪模型中，校正过程的几个数组相乘实质为矩阵相乘化简后变为方程组的形势，在运动模型仿真中，通过Python的矩阵运算省略了这一步
-
-This sentence uses `$` delimiters to show math inline:  $\sqrt{3x-1}+(1+x)^2$
